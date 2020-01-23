@@ -8,10 +8,6 @@
 
 **[View Live Preview](https://charlesangelolai.github.io/portfolio.github.io/)**
 
-## Status
-
-## Download and Installation
-
 ## About
 
 ## Copyright and License
